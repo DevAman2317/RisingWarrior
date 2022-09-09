@@ -1,10 +1,10 @@
 @font-face {
     font-family: heading;
-    src: url(/Font/bold.otf);
+    src: url(../font/bold.otf);
 }
 @font-face {
     font-family: subheading;
-    src: url(/Font/cooperbalck.TTF);
+    src: url(../font/cooperbalck.TTF);
 }
 
 #logo{
